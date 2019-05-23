@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/div"
+        android:layout_width="55dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"
+        android:text="Divition" />
+
+    <TextView
+        android:id="@+id/resultView"
+        android:layout_width="243dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="150dp" />
+
+</LinearLayout>
